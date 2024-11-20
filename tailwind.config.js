@@ -4,7 +4,7 @@
  */
 
 module.exports = {
-	content: ['./src/index.{html,js}', './src**/*.{html,js}'],
+	content: ['./src/index.html', './src**/*.{html,js}'],
 	// purge: {
 	// 	enabled: process.env.NODE_ENV === 'production',
 	// 	content: ['./src/index.html', './src/*.js'],
